@@ -213,7 +213,7 @@
         <button
           class="bg-indigo-500 hover:bg-indigo-400 font-semibold px-4 py-2 rounded-lg w-full sm:w-auto xl:w-full"
         >
-          Update results {{ isBigger }}
+          Update results
         </button>
       </div>
     </form>
@@ -378,7 +378,7 @@
         <button
           class="bg-indigo-500 hover:bg-indigo-400 font-semibold px-4 py-2 rounded-lg w-full sm:w-auto xl:w-full"
         >
-          Update results {{ isBigger }}
+          Update results
         </button>
       </div>
     </form>

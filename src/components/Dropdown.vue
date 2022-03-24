@@ -41,7 +41,7 @@ export default {
       this.isOpen = false;
     };
     document.addEventListener("keydown", onEscape);
-    this.$on("hook:destroed", () => {
+    this.$on("hook:destroyed", () => {
       document.removeEventListener("keydown", onEscape);
     });
   },
